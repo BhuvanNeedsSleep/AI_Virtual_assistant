@@ -4,11 +4,8 @@ This project is a voice assistant that utilizes speech recognition and text-to-s
 
 ## Requirements
 
-- Python 3.6 or higher 
-- speech_recognition library (`pip install SpeechRecognition`)
-- pyttsx3 library (`pip install pyttsx3`)
-
 Install the required dependencies using pip: pip install -r requirements.txt
+
 ## Usage
 
 1. Install the required dependencies mentioned above.
